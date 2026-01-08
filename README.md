@@ -37,7 +37,7 @@
 
 ## 🛠️ Technologies & Tools
 
-- **Python**
+- **Python/Requests**
 - **Jupyter Notebook**
 - **Pandas**
 - **Web/API Scraping**
